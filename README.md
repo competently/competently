@@ -2,6 +2,13 @@
 
 Most web-based businesses (including those with mobile apps, bots, etc.), have a lot of similar concerns and plumbing that can contribute to the larger success of the business if done well.  The point of competently is to try to identify best practices as well as identify areas of focus for businesses to measure themselves against.  The compentency scale gives a way to see where you are in each area/dimension.
 
+For a brief explanation of the different compentency levels, look [here](#competency-levels)
+
+## Competency Dimensions
+
+### [Data](data.md)
+
+
 <a name="competency-levels"></a>
 ## Competency Levels
 
