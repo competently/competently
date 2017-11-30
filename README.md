@@ -8,6 +8,8 @@ For a brief explanation of the different compentency levels, look [here](#compet
 
 ### [Data](data.md)
 
+### [Security](security.md)
+
 
 <a name="competency-levels"></a>
 ## Competency Levels
